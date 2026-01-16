@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# my ignore rules
+*.pth
+data/
+04_images/
+05_images/
+images/
